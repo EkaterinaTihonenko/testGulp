@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 Gulp-Autoprefixer/ префиксы для css
 Gulp-CSSBeautify/для читабельности css на выходе
@@ -14,6 +15,8 @@ Panini / для удобства работы с html
 BrowserSync/ локальный сервер
 */
 
+=======
+>>>>>>> 5f04c8245c759c22d357baf87d30899fdfb664aa
 "use strict";
 
 const { src, dest } = require("gulp");
